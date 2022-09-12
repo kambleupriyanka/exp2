@@ -1,3 +1,3 @@
 # exp2
 operations on github
-git config
+git config --global user.name
